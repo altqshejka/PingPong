@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/eclipse-workspace/kresti_nuli/jssc-2.8.0-javadoc.jar!/javadoc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
